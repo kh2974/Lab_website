@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Khondker Fariha Hossain
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Northern Arizona University
 aliases:
-  - J. Smith
-  - J Smith
+  - Fariha Hossain
+  - Fariha H.
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
